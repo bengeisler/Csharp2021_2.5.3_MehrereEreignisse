@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\bin\Debug\MehrereEreignisse.exe.config
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\bin\Debug\MehrereEreignisse.exe
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\bin\Debug\MehrereEreignisse.pdb
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.csprojAssemblyReference.cache
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.Form1.resources
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.Properties.Resources.resources
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.csproj.GenerateResource.cache
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.exe
+C:\Users\b\source\repos\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.pdb
